@@ -10,7 +10,7 @@
   - [Live](https://typost.netlify.app/)
 - Image Editor
   - [Github](https://github.com/AzaanUllah-Khan/Image-Editor)
-  - [Live](https://image-editor-azaan.netlify.app/)
+  - [Live](https://imageeditor-azaan.netlify.app/)
 - Flappy Bird
   - [Github](https://github.com/AzaanUllah-Khan/Flappy-Bird)
   - [Live](https://flappybird-azaan.netlify.app/)
