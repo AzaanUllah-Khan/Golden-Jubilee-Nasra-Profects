@@ -27,6 +27,8 @@
   - [Github](https://github.com/AzaanUllah-Khan/Guess-The-Number-Game)
   - [Live](https://guess-number-azaan.vercel.app/)
 - QR Code Generator
+  - [Github](https://github.com/AzaanUllah-Khan/QR-Code-Generator)
+  - [Live](https://qrcode-azaan.vercel.app/)
   -  [students](link)
  
 ### Suggested
