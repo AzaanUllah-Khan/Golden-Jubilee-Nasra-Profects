@@ -1,6 +1,6 @@
 # Golden-Jubilee-Nasra-Profects
 
-## Projects
+<h1>Projects</h1>
 
 - Quiz App
 - Typing test Game
