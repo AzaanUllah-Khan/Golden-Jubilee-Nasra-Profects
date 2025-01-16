@@ -3,7 +3,8 @@
 ### Projects
 
 - Quiz App
-  - [students](link)
+  - [Github](https://github.com/AzaanUllah-Khan/Math-Quiz)
+  - [Live](https://math-quiz-azaan.netlify.app/)
 - Typing test Game
   - [students](link)
 - Image Editor
