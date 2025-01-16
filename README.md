@@ -12,17 +12,17 @@
 - Guess the Number
 - QR Code Generator
 
-  ## Suggested
+## Suggested
 
-  - E-Quran
-  - Country Guider
-  - MS Word
-  - Calculator
+- E-Quran
+- Country Guider
+- MS Word
+- Calculator
  
-  ## Students
+## Students
 
-  - Zainab - M
-  - Amna - M
-  - Iqra - M
-  - Mohsin - M
-  - Aliza - M
+- Zainab - M
+- Amna - M
+- Iqra - M
+- Mohsin - M
+- Aliza - M
