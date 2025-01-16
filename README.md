@@ -12,7 +12,8 @@
   - [Github](https://github.com/AzaanUllah-Khan/Image-Editor)
   - [Live](https://image-editor-azaan.netlify.app/)
 - Flappy Bird
-  - [students](link)
+  - [Github](https://github.com/AzaanUllah-Khan/Flappy-Bird)
+  - [Live](https://flappybird-azaan.netlify.app/)
 - Counter
   - [students](link)
 - Tic Tac Toe (Change to Hangman game)
