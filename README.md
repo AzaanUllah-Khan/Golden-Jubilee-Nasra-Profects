@@ -29,7 +29,6 @@
 - QR Code Generator
   - [Github](https://github.com/AzaanUllah-Khan/QR-Code-Generator)
   - [Live](https://qrcode-azaan.vercel.app/)
-  -  [students](link)
  
 ### Suggested
 
