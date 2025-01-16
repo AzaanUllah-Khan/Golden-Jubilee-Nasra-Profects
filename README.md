@@ -19,16 +19,16 @@
   - [Live](https://react-counter-with-stop-watch.vercel.app/)
 - Tic Tac Toe (Change to Hangman game)
   - [Github](https://github.com/AzaanUllah-Khan/Tic-Tac-Toe)
-  - [Live](https://tictactoe-azaan.vercel.app/)
+  - [Live](https://tictactoe-azaan.netlify.app/)
 - Weather App
   - [Github](https://github.com/AzaanUllah-Khan/Weather-App)
-  - [Live](https://weatherapp-azaan.vercel.app/)
+  - [Live](https://weatherapp-azaan.netlify.app/)
 - Guess the Number
   - [Github](https://github.com/AzaanUllah-Khan/Guess-The-Number-Game)
-  - [Live](https://guess-number-azaan.vercel.app/)
+  - [Live](https://guess-number-azaan.netlify.app/)
 - QR Code Generator
   - [Github](https://github.com/AzaanUllah-Khan/QR-Code-Generator)
-  - [Live](https://qrcode-azaan.vercel.app/)
+  - [Live](https://qrcode-azaan.netlify.app/)
  
 ### Suggested
 
