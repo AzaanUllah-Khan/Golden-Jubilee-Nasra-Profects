@@ -9,7 +9,8 @@
   - [Github](https://github.com/AzaanUllah-Khan/Typing-Test-Game)
   - [Live](https://typost.netlify.app/)
 - Image Editor
-  - [students](link)
+  - [Github](https://github.com/AzaanUllah-Khan/Image-Editor)
+  - [Live](https://image-editor-azaan.netlify.app/)
 - Flappy Bird
   - [students](link)
 - Counter
