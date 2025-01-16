@@ -1,4 +1,4 @@
-# Golden-Jubilee-Nasra-Profects
+## Golden-Jubilee-Nasra-Profects
 
 ### Projects
 
@@ -12,14 +12,14 @@
 - Guess the Number
 - QR Code Generator
 
-## Suggested
+### Suggested
 
 - E-Quran
 - Country Guider
 - MS Word
 - Calculator
  
-## Students
+### Students
 
 - Zainab - M
 - Amna - M
