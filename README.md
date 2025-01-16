@@ -5,21 +5,21 @@
 - Quiz App
   - [students](link)
 - Typing test Game
- - [students](link)
+  - [students](link)
 - Image Editor
- - [students](link)
+  - [students](link)
 - Flappy Bird
- - [students](link)
+  - [students](link)
 - Counter
- - [students](link)
+  - [students](link)
 - Tic Tac Toe (Change to Hangman game)
- - [students](link)
+  - [students](link)
 - Weather App
- - [students](link)
+  - [students](link)
 - Guess the Number
- - [students](link)
+  - [students](link)
 - QR Code Generator
- - [students](link)
+  -  [students](link)
  
 ### Suggested
 
