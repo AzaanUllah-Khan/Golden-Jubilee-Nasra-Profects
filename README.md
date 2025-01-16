@@ -26,7 +26,6 @@
 - Guess the Number
   - [Github](https://github.com/AzaanUllah-Khan/Guess-The-Number-Game)
   - [Live](https://guess-number-azaan.vercel.app/)
-  - [students](link)
 - QR Code Generator
   -  [students](link)
  
