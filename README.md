@@ -15,10 +15,14 @@
   - [Github](https://github.com/AzaanUllah-Khan/Flappy-Bird)
   - [Live](https://flappybird-azaan.netlify.app/)
 - Counter
-  - [students](link)
+  - [Github](https://github.com/AzaanUllah-Khan/React-Counter-With-Stop-Watch)
+  - [Live](https://react-counter-with-stop-watch.vercel.app/)
 - Tic Tac Toe (Change to Hangman game)
-  - [students](link)
+  - [Github](https://github.com/AzaanUllah-Khan/Tic-Tac-Toe)
+  - [Live](https://tictactoe-azaan.vercel.app/)
 - Weather App
+  - [Github](https://github.com/AzaanUllah-Khan/Weather-App)
+  - [Live](https://weatherapp-azaan.vercel.app/)
   - [students](link)
 - Guess the Number
   - [students](link)
